@@ -1,4 +1,4 @@
-baseURL = 'https://localhost:1313'
+baseURL = 'http://axl2468.github.io/lapizote-personal/'
 languageCode = 'en-us'
 title = "Lapizote's Space"
 theme = 'lappyMini'
