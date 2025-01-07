@@ -13,7 +13,7 @@
       <link>http://localhost:1313/about-me/</link>
       <pubDate>Sun, 05 Jan 2025 22:58:01 +0800</pubDate>
       <guid>http://localhost:1313/about-me/</guid>
-      <description>&lt;p&gt;Hi!&lt;/p&gt;&#xA;&lt;p style=&#34;margin-top: 5000px;&#34;&gt;test&lt;/p&gt;</description>
+      <description>&lt;p&gt;Hi!&lt;/p&gt;&#xA;&lt;p&gt;My name&amp;rsquo;s Axl, going under the handle Lapizote. I&amp;rsquo;m an undergraduate Physics student from the Philippines&lt;/p&gt;&#xA;&lt;p style=&#34;margin-top: 5000px;&#34;&gt;test&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hello, World!</title>
